@@ -9,3 +9,5 @@
 ## Chapter 3: LLM Evaluations  
 - I designed a threat model and specifications for evaluating sycophancy in LLMs ([Colab notebook](https://colab.research.google.com/drive/1TKqaCjkZ9Eyax_LzO5acdsIYe8DZeKfS))  
 - I also designed and generated a multiple-choice evaluation for sycophancy using LLMs. This was done implementing Anthropic’s model-written evaluation method ([Colab notebook](https://colab.research.google.com/drive/1CcnnGug-bu--wrB-xbYOUwwnPjlZJkHq))
+- I run an evalautions in Inspect ([Colab notebook](https://colab.research.google.com/drive/1koJSAFtR13wkwOUreaVPjcuzNG9ke1RD)) 
+- I Implemented multiple AI agents including one that played the Wikipedia Game. Additionally, I explored the implications of multiple elicitation protocols ([Colab notebook](https://colab.research.google.com/drive/1oWOY6oP8T5Qp3TOepCcNi8_4FCI-AG5s)) 
